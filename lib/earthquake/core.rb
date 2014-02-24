@@ -1,5 +1,6 @@
 # encoding: UTF-8
 require 'fileutils'
+require 'yaml'
 
 module Earthquake
   module Core
